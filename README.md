@@ -1,12 +1,12 @@
 # CASPER NET CAFE
 
-Published page: https://ziadmagdy75.github.io/casper-net-cafe/
+Published page: https://casper-net-cafe.vercel.app/
 
-Netlify’s `netlify.app` address does not open from this network (`ERR_CONNECTION_TIMED_OUT`), so the public page is on GitHub Pages.
+This address is the café name only. GitHub Pages included the account name, and `netlify.app` does not open from this network.
 
 The printable QR code opens that page. Files are in `print/`:
 
-- `print/casper-net-cafe-qr.png` — 2401×2401 PNG
+- `print/casper-net-cafe-qr.png` — 2430×2430 PNG
 - `print/casper-net-cafe-qr.svg` — vector QR code
 - `print/casper-net-cafe-card.svg` — A6 card
 - `print/index.html` — print preview
