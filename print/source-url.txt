@@ -1,0 +1,7 @@
+CASPER NET CAFE QR target
+url: https://ziadmagdy75.github.io/casper-net-cafe/
+requested: https://ziadmagdy75.github.io/casper-net-cafe/
+generated: 2026-11-07T12:34:42.353Z
+errorCorrection: H
+png: 2401x2401
+verifiedDecode: true

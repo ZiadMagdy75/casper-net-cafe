@@ -6,7 +6,7 @@ Netlify’s `netlify.app` address does not open from this network (`ERR_CONNECTI
 
 The printable QR code opens that page. Files are in `print/`:
 
-- `print/casper-net-cafe-qr.png` — 2430×2430 PNG
+- `print/casper-net-cafe-qr.png` — 2401×2401 PNG
 - `print/casper-net-cafe-qr.svg` — vector QR code
 - `print/casper-net-cafe-card.svg` — A6 card
 - `print/index.html` — print preview
