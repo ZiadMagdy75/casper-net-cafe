@@ -1,0 +1,18 @@
+{
+  "name": "CASPER NET CAFE",
+  "short_name": "CASPER",
+  "description": "Social links and contact for CASPER NET CAFE.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07060d",
+  "theme_color": "#07060d",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "casper-net-cafe",
+  "private": true,
+  "description": "Mobile-first social links page for CASPER NET CAFE",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/preview.mjs",
+    "qr": "node scripts/generate-qr.mjs",
+    "qr:test": "node scripts/generate-qr.mjs --self-test"
+  },
+  "devDependencies": {
+    "jsqr": "^1.4.0",
+    "pngjs": "^7.0.0",
+    "qrcode": "^1.5.4"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
